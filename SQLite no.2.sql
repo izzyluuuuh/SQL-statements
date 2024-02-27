@@ -1,0 +1,1 @@
+SELECT movyear FROM Movie WHERE movtitle = 'Batang X'
